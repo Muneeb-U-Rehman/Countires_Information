@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Countires Information</string>
+    <string name="title_activity_countries_detail">CountriesDetailActivity</string>
+</resources>
